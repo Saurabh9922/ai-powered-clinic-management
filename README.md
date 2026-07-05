@@ -298,7 +298,6 @@ Appointment Stored in Database
 
 ## 📌 Workflow Diagram
 
-> Save your workflow diagram as:
 
 <p align="center">
 
