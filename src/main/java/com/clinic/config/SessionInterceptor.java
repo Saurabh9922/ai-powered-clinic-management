@@ -16,7 +16,7 @@ public class SessionInterceptor implements HandlerInterceptor {
 
     // Routes that do NOT require login
     private static final String[] PUBLIC_URLS = {
-            "/login", "/register", "/", "/css", "/js", "/images"
+            "/login", "/register", "/", "/css", "/js", "/images", "/health"
     };
 
     @Override
